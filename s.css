@@ -54,15 +54,11 @@ button {
     color: var(--text);
 }
 
-.b-2 {
-    margin-left: 13rem;
-}
-
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    padding: 2rem;
+    padding: 0.5rem;
     background-color: var(--primary-color);
     text-align: center;
 }
